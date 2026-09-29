@@ -29,8 +29,8 @@ Total Revenue: ₹8,52,71,008.00
 
 3. Revenue by Product Category & Sub-Category (Column Chart)
 
-  Categorizes sales across Accessories, Bikes, and Clothing sub-categories.   
-  Breaks down performance for sub-categories such as Mountain Bikes, Road Bikes, Touring Bikes, Helmets, Tires and Tubes, Jerseys, etc.       
+   Categorizes sales across Accessories, Bikes, and Clothing sub-categories.   
+   Breaks down performance for sub-categories such as Mountain Bikes, Road Bikes, Touring Bikes, Helmets, Tires and Tubes, Jerseys, etc.       
 
 4. Demographic Breakdowns
   

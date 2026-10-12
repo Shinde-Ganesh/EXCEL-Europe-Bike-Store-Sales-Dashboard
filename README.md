@@ -4,6 +4,12 @@
 
 This repository contains the sales analysis dashboard and dataset for Bike Europe. The Excel-based interactive dashboard (Final Sales File.xlsx) provides a comprehensive view of global sales performance, profitability, customer demographics, and product category distributions across multiple years.   
 
+**Dashboard Screenshot**
+
+<img width="1496" height="598" alt="Europe Bike Store Sales" src="https://github.com/user-attachments/assets/736b3e47-5f5c-474c-b2a4-43d61005f4f2" />
+
+
+
 **Key Performance Indicators (KPIs)**
 
 The dashboard tracks the following top-level metrics:
